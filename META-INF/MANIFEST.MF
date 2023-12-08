@@ -1,0 +1,143 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: RuneWord.RuneWord
+SplashScreen-Image: splash.gif
+
+Name: RuneWord/Runes.java
+SHA1-Digest: hljhzwO+mrAL6P8/M6z0brquMuQ=
+
+Name: Manifest.mf
+SHA1-Digest: dvit3+Yu+LXZ/nNLOulOekPG/AI=
+
+Name: runes.csv
+SHA1-Digest: jmi0zDZN740BNruK4bZMiUQ0Imo=
+
+Name: .project
+SHA1-Digest: dO8KBQAu1TB7uVLqNY+RgkIc5MQ=
+
+Name: RuneWord/Objets.class
+SHA1-Digest: MPhGCRgGkbCKEP+A1ZYQZWVVkXE=
+
+Name: RuneWord/MotRunique.java
+SHA1-Digest: eEkKJ+suj4dmOdkJ2Ymi5+GHAl4=
+
+Name: RuneWord/TextRenderer.class
+SHA1-Digest: Kfcz9nL8Oe3ahanBlIvQN/cVgPY=
+
+Name: RuneWord/MotsRuniques.class
+SHA1-Digest: KTSin+0Lm1CovXJNQeY2wMJFFtU=
+
+Name: RuneWord/MyListener.class
+SHA1-Digest: /WGH3+QPszCOe8AJQ4s//EkQhDg=
+
+Name: RuneWord/Runes.class
+SHA1-Digest: 34HU02SLdlFC+b3G04MBvXKnTTg=
+
+Name: RuneWord/SpecialMacHandler.java
+SHA1-Digest: Y5okN3/BEW9HF+16mezGop+puuQ=
+
+Name: RuneWord/AppletRuneWord.java
+SHA1-Digest: sNg+DW6+NhvX7TfC1XfjN0Oj71A=
+
+Name: .classpath
+SHA1-Digest: U4+isH23pgD+jrk4wgOs9hbm24Y=
+
+Name: TODO
+SHA1-Digest: 3oQQ+fDSFvxHBguyoXk3H4S4S3g=
+
+Name: RuneWord/TableTriee.class
+SHA1-Digest: xRydfQeKTrdvZoBYBljDAt3EzCg=
+
+Name: RuneWord/RuneWord$3.class
+SHA1-Digest: 01AdDhBqVNwoLXlf40wb/nVjtxc=
+
+Name: RuneWord/Objet.class
+SHA1-Digest: xukyHhqrUSPdzN4DansJTkzcINY=
+
+Name: RuneWord/ModeleTable.class
+SHA1-Digest: UkxVX9rsTRQyp9p2m4Qof6NStoQ=
+
+Name: RuneWord/RuneWord$2.class
+SHA1-Digest: uRv3yT/k9O4wEsIf2VTFWj4BO60=
+
+Name: RuneWord_fr.properties
+SHA1-Digest: zZ8CZhET+b25/x+1T3X0XIbqENo=
+
+Name: RuneWord/TextEditor.class
+SHA1-Digest: y54GemESomgdhegnS38sBQwtHjQ=
+
+Name: RuneWord_en.properties
+SHA1-Digest: 6RWhB5/y6D3VM0N6HFY/bX+gb88=
+
+Name: CHANGELOG
+SHA1-Digest: jNI9Hhv91pftB0XijKwjHP8Y20Q=
+
+Name: RuneWord/RuneWord$1.class
+SHA1-Digest: vsI0IrHxmAkYUn1LTLw7tDcx++Q=
+
+Name: RuneWord/Rune.class
+SHA1-Digest: CAcCEcdWNDYojvBV8JrYmdkqo6w=
+
+Name: RuneWord/TableTriee$1.class
+SHA1-Digest: Oil2L8IfkEYUc2MOyn7PxDARFdo=
+
+Name: RuneWord/HyperActive.class
+SHA1-Digest: RmJRvn7L2z2LS5abE5yYpentVo8=
+
+Name: RuneWord/TextRenderer.java
+SHA1-Digest: LmRFbRkcl7o0tIJcmn7okMoJzC4=
+
+Name: RuneWord/RuneWord.class
+SHA1-Digest: yCdzCe0WaNLibNsnvPpywm7LAow=
+
+Name: RuneWord/TableTriee.java
+SHA1-Digest: fSqyGq70kyQpuVR2Yg8R3Ziwv04=
+
+Name: mots_runiques.csv
+SHA1-Digest: fh382OK0o23KBI5ouVWKsXO/cvU=
+
+Name: RuneWord/Rune.java
+SHA1-Digest: xkkS48TVgNtIsIAACAm5SOG9cXY=
+
+Name: RuneWord/MotRunique.class
+SHA1-Digest: 0Tb6/PUImMnSMtccZaLiejxK4NM=
+
+Name: RuneWord/MotsRuniques.java
+SHA1-Digest: SUZdx9SV7vPM7mswoCvD25ED/HM=
+
+Name: RuneWord/SpecialMacHandler.class
+SHA1-Digest: +p8J8GbxSkBDyCMpwY44ick71CU=
+
+Name: RuneWord/Objets.java
+SHA1-Digest: StNaHguuLtigDDDm/RkEUs3MjbY=
+
+Name: RuneWord/MyListener.java
+SHA1-Digest: uD2oQcib6/ULp5o0TU1WgK9G4NA=
+
+Name: RuneWord/AppletRuneWord.class
+SHA1-Digest: +g5FHRbuKyPNUFLa28cL4GTjE2c=
+
+Name: splash.gif
+SHA1-Digest: ujeAzdWZ0x5LgeyIfRhY389CXyU=
+
+Name: RuneWord/HyperActive.java
+SHA1-Digest: xJ4sCrm9hLzEGi0bqpdFaPlJ4ZU=
+
+Name: .settings/org.eclipse.jdt.ui.prefs
+SHA1-Digest: wOOnSVLLxrRAwFKIMKMwgElac3w=
+
+Name: RuneWord/ModeleTable.java
+SHA1-Digest: 18lTYUux1wsXFNJSzXuFK1fVDN4=
+
+Name: RuneWord/TextEditor.java
+SHA1-Digest: 2Ky7YGGp4t/K9q2rju42/mLUXrM=
+
+Name: RuneWord/Objet.java
+SHA1-Digest: zmWNzntGt9e7TF8kuLpLugx4yiw=
+
+Name: RuneWord/RuneWord.java
+SHA1-Digest: tk1MscmZr4GkdR4pgK2Nn6GCagY=
+
+Name: RuneWord.properties
+SHA1-Digest: AuqsHWPPaRHYYqnEHu7keeMQ8nU=
+

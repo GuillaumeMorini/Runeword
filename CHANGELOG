@@ -1,0 +1,26 @@
+ChangeLog
+
+Ajout dans la version v0.4 :
+ - selection de la totalité du champ texte "Niveau" lors d'un click sur le texte
+ - Possibilité de lancer l'application par javawebstart
+ - N'autoriser que la saisie de digit pour la case niveau
+ - Permet de trouver les motsz runiques génériques lors de la sélection d'un objet spécifique
+
+Ajout dans la version v0.3 :
+ - utilisation des ArrayList a la place de Vector
+ - utilisation d'un BufferedReader plutot qu'un LineNumberReader
+ - determination de la taille du JPanel pour qu'il est la même taille quelque soit la langue
+ - Relance la recherche quand on modifie les niveaux ou les runes
+ - Permettre la saisie d'un niveau
+ - Conserver l'ordre de tri
+ - Ajouter les choix sur les catégories d'armes
+ - Acceleration de l'application
+ - Ajout d'un splash screen
+
+Ajout dans la version v0.2 :
+ - Modification de la classe RuneWord en classe dérivée de JPanel au lieu de JFrame
+ - Modification du createAndShowGUI pour y créer une JFrame
+ - Ajout de la classe AppletRuneWord pour permettre de lancer l'application sous la forme d'une applet
+ - Suppression de l'acces aux resources a partir du nom du fichier jar mais access avec getClass().getResource( nomfic ).openStream()
+ - Ajout de l'internationalisation
+ - Ajout de la gestion du lien hypertexte pour mac et linux (a tester)

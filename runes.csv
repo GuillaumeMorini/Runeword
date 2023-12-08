@@ -1,0 +1,33 @@
+El;+50 en niveau d'attaque, +1 en cercle de lumière;+15 en défense, +1 en cercle de lumière;11
+Eld;+75% de dégâts contre les morts-vivants, +50 en niveau d'attaque contre les morts-vivants;Baisse d'endurance plus lente de 15% (armures)/Augmentation de la chance de bloquer (boucliers);11
+Tir;+2 au mana après chaque mort;+2 au mana après chaque mort;13
+Nef;Fait reculer l'ennemi;+30 en défense contre les missiles;13
+Eth;-25% à la défense de la cible;+15% de régénération du mana;15
+Ith;+9 aux dégâts maximum;15% des dégâts encaissés vont au mana;15
+Tal;+75 de dégâts de poison sur 5 secondes;+30 à la résistance au poison (armures) /+35 à la résistance au poison (boucliers);17
+Ral;+5-30 de dégâts de feu;+30 à la résistance au feu (armures) /+35 à la résistance au feu (boucliers);19
+Ort;+1-50 de dégâts de foudre;+30 à la résistance à la foudre (armures) /+35 à la résistance à la foudre (boucliers);21
+Thul;+3-14 de dégâts de froid - Durée du froid : 3 secondes;+30 à la résistance au froid (armures) /+35 à la résistance au froid (boucliers);23
+Amn;7% de vie volée par coup;Attaquant prend des dégâts de 14;25
+Sol;+9 aux dégâts minimum;Dégâts réduits de 7;27
+Shael;Augmentation de la vitesse d'attaque de 20%;Récupération plus rapide après un coup de 20% (armures) /Blocage des coups plus rapide de 20% (boucliers);29
+Dol;Le monstre touché s'enfuit;25% Régénération de la vie +7;31
+Hel;Conditions requises -20%;Conditions requises -15%;1
+Io;+10 en vitalité;+10 en vitalité;35
+Lum;+10 en énergie;+10 en énergie;37
+Ko;+10 en dextérité;+10 en dextérité;39
+Fal;+10 en force;+10 en force;41
+Lem;75% d'or en plus sur les monstres;50% d'or en plus sur les monstres;43
+Pul;+75% de dégâts sur les démons. +100 en niveau d'attaque contre les démons;+30% de défense;45
+Um;25% de chance de faire des blessures ouvertes;Bonus à toutes les résistances : +15 (armures). +22 (boucliers);47
+Mal;Empêche le monstre de se soigner;Dégâts magiques réduits de 7;49
+Ist;30% de chances en plus de trouver un objet magique;25% de chances en plus de trouver un objet magique;51
+Gul;+20% en niveau d'attaque;+5% à la résistance maximale au poison;53
+Vex;7% de mana volé par coup;+5% à la résistance maximale au feu;55
+Ohm;+50% de dégâts;+5% à la résistance maximale au froid;57
+Lo;20% de chances de faire un coup mortel;+5% à la résistance maximale à la foudre;59
+Sur;Le coup aveugle l'ennemi;+5% au maximum de mana (armures) /+50 au mana (boucliers);61
+Ber;20% de chances de faire un coup cinglant;Dégâts réduits de 8%;63
+Jah;Ignore la défense de la cible;Augmentation de la vie de 5% (armures) /+50 en vie (boucliers);65
+Cham;Gèle la cible +3;Ne peut être immobilisé;67
+Zod;Indestructible;Indestructible;69
